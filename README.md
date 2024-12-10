@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, My name is Carlos</h1>
+<h1 align="center">Hi 👋, My name is Carlos</h1>
 <h3 align="center">A junior developer with a passion for programming and a focus on problem-solving. I am motivated to create new and innovative solutions and am committed to continuous learning. Additionally, I enjoy coding as much as a good cup of coffee.</h3>
 
 - 🌱 I’m currently learning **Larabel, React, Spring**

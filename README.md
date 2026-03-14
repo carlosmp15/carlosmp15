@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Mi+nombre+es+Carlos!;" />
 
 <h2>📖 | Sobre mí</h2> 
-<h3>Desarrollador Web Full Stack 🚀</h3> 
+<h3>Desarrollador Web Full Stack </h3> 
 <p>Creo soluciones web que optimizan la eficiencia empresarial, integrando aplicaciones con Sage 200 y transformando ideas en herramientas funcionales y escalables.</p>
 
 <div align="center">
